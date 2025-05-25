@@ -1,6 +1,6 @@
 ### 👍 Howdy!
 
-- ⚒️ Project Queue #1 Pacific Islands Campaign - Guam demo - "AI" and G3 UI code for internal demo at ConsimWorld Expo
+- ⚒️ **Actively working Pacific Islands Campaign - Guam demo - "AI" and G3 UI code for internal demo at ConsimWorld Expo**
 - ⚒️ **STILL About to release the Windows version of SpellR.**
 - ⚒️ **Retirement planning book draft complete.  Alpha reader group in progress.**
 - 🌱 Study Queue #1 Soft skills study for 2025 at work.
