@@ -1,11 +1,11 @@
 ### 👍 Howdy!
 
-- ⚒️ **Actively working Pacific Islands Campaign - Guam demo - "AI" and G3 UI code for internal demo at ConsimWorld Expo**
-- ⚒️ **STILL About to release the Windows version of SpellR.**
-- ⚒️ **Retirement planning book draft complete.  Alpha reader group in progress.**
-- 🌱 Study Queue #1 Soft skills study for 2025 at work.
-- 🌱 Study Queue #2: Implement last year's HackFest proposal at work Angular/WebAPI/C#/SQL
-- 🪧 demontrated Copilot Studio and NotebookLLM at work 5/18/25
+- ⚒️ **Released a Vassal Module for [Pacific Islands Campaign - Guam]([url](https://vassalengine.org/library/projects/Pacific_Islands_Campaign_Guam)).**
+- ⚒️ **Release the Windows version of [SpellR]([url](https://apps.microsoft.com/detail/9n0h4g6b24v4?hl=en-US&gl=US)).**
+- ⚒️ **Retirement planning book draft complete.  Beta draft from reader feedback in progress.**
+- 🌱 2026 Study Queue #1 Soft skills study for 2025 at work.  Read _The Infinite Game_ by Simon Sinek and _The Power of One More_ by Ed Mylett.
+- 🌱 2025 Study Queue #2: Implemented a tax metadata editor (last year's HackFest proposal) at work Angular/WebAPI/C#/SQL
+- 🪧 demonstrated Copilot Studio and NotebookLLM at work 5/18/25
 - 🧩 Reviewed rules for Armored Knights Case Blue wargames in Q1/Q2 2025
 - 📱 Released a .Net MAUI version of Laundry Watcher to IOS on 1/11/24
 - 🦜 I’m on Twitter https://twitter.com/CoherentLite but not particularly active.
