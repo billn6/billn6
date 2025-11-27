@@ -1,7 +1,7 @@
 ### 👍 Howdy!
 
-- ⚒️ **Released a Vassal Module for [Pacific Islands Campaign - Guam]([url](https://vassalengine.org/library/projects/Pacific_Islands_Campaign_Guam)).**
-- ⚒️ **Release the Windows version of [SpellR]([url](https://apps.microsoft.com/detail/9n0h4g6b24v4?hl=en-US&gl=US)).**
+- ⚒️ **Released a Vassal Module for [Pacific Islands Campaign - Guam]([url](https://vassalengine.org/library/projects/Pacific_Islands_Campaign_Guam)) at https://vassalengine.org/library/projects/Pacific_Islands_Campaign_Guam.**
+- ⚒️ **Release the Windows version of [SpellR]([url](https://apps.microsoft.com/detail/9n0h4g6b24v4?hl=en-US&gl=US)) at https://apps.microsoft.com/detail/9n0h4g6b24v4?hl=en-US&gl=US.**
 - ⚒️ **Retirement planning book draft complete.  Beta draft from reader feedback in progress.**
 - 🌱 2026 Study Queue #1 Soft skills study for 2025 at work.  Read _The Infinite Game_ by Simon Sinek and _The Power of One More_ by Ed Mylett.
 - 🌱 2025 Study Queue #2: Implemented a tax metadata editor (last year's HackFest proposal) at work Angular/WebAPI/C#/SQL
